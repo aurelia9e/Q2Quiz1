@@ -1,0 +1,27 @@
+body {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg);
+	color: whitesmoke;
+}
+
+.container {
+	background-color: black;;
+	font-family: fantasy;
+	color: black;
+	scroll-padding-top: 10px;
+}
+
+.container2 {
+	background-color: saddlebrown;
+	color: burlywood;
+	font-family: fantasy;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+img {
+	width: 150px;
+	border-radius: 100px;
+}
+
+
+
+
